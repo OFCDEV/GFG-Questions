@@ -1,3 +1,4 @@
+//It can print all the prime numbers within a given range.
 #include<stdio.h>
 #include<stdbool.h>
 bool isPrime(int N){
